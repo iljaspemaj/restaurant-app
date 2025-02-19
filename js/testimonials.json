@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Arbrim Thaci",
+        "role": "CEO",
+        "image": "img/arbrim-thaci.png",
+        "text": "At Restaurantista, our passion is creating unforgettable dining experiences. We take pride in delivering exceptional food, top-tier service, and a welcoming atmosphere for our guests. Whether you're here for a casual meal or a special occasion, we strive to make every visit remarkable. Thank you for being part of our journey!"
+    },
+    {
+        "name": "Enes Shala",
+        "role": "Lead Front-end",
+        "image": "img/enes-shala.png",
+        "text": "At Restaurantista, we don’t just create great food—we craft seamless digital experiences. Our website is designed to be as intuitive and inviting as our restaurants. From effortless reservations to a visually stunning menu, we ensure every online interaction feels just as premium as dining in."
+    },
+    {
+        "name": "Violeta Thaci",
+        "role": "Lead Designer",
+        "image": "img/violeta-thaci.png",
+        "text": " Design is not just about looks—it’s about experience. At Restaurantista, we’ve crafted an aesthetic that blends elegance with comfort, making every visit a visual delight. Seeing our guests enjoy both the food and the ambiance is what makes my job truly rewarding!"
+    },
+    {
+        "name": "Iljas Pemaj",
+        "role": "Lead Back-end",
+        "image": "img/iljas-pemaj.PNG",
+        "text": "At Restaurantista, our backend team is responsible for managing all data and ensuring that our online platform is running smoothly. We use cutting-edge technology to optimize our website and deliver exceptional customer service. From creating and managing menus to managing reservations, our backend team ensures that every aspect of our restaurant is in top shape."
+    }
+]
